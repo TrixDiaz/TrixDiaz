@@ -1,5 +1,5 @@
 ### Hello there 👋
-### I'm Trix almost 3 years as PHP Web Developer more in Laravel Framework
+### I'm Trix 3 years as PHP Web Developer more in Laravel Framework
 ### Web and Mobile Developer 
 ### Full Stack Developer 
 ### IT Technicians
